@@ -1,2 +1,3 @@
 # beginner
-my first github repository
+my first git repository
+author-ronak
