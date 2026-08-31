@@ -1,4 +1,4 @@
 # beginner
 my first git repository <br>
 
-author-ronak
+author-ronak(software developer)
