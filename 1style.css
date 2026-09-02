@@ -1,11 +1,42 @@
 #a1{
-color: navy;
+color: black;
+background-color: skyblue
 }
 table{
-    color:black;
+    color:black
 
 }
 #a2{
-background-color: blue;
+background-color: skyblue;
+}
+#a3{
+background-color: skyblue
+}
+#a4{
+    background-color: skyblue;
+}
 
+#a5{
+background-color: skyblue
+}
+
+#a6{
+    background-color: skyblue;
+}
+#a7{
+    background-color: skyblue;
+}
+
+#a8{
+    background-color: skyblue;
+}
+#a9{
+    background-color: skyblue;
+}
+
+body{
+    background-color: beige;
+    width: 80%;
+    margin: auto;
+    padding: 10px;
 }
